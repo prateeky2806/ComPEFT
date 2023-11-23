@@ -1,7 +1,7 @@
-# [ComPEFT: Compression for Communicating Parameter Efficient Updates via Sparsification and Quantization]()
+# [ComPEFT: Compression for Communicating Parameter Efficient Updates via Sparsification and Quantization](https://arxiv.org/abs/2311.13171)
 
 * Authors: [Prateek Yadav](https://prateek-yadav.github.io/), [Leshem Choshen](https://ktilana.wixsite.com/leshem-choshen), [Colin Raffel](https://colinraffel.com/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
-* Paper: [arXiv]()
+* Paper: [arXiv](https://arxiv.org/abs/2311.13171)
 
 <img src="./assets/compeft.png" alt="teaser image" width="800"/>
 
@@ -113,8 +113,11 @@ Please consider citing our paper if you use our code or models in your work:
 
 
 ```bibtex
-@inproceedings{yadav2023ties-merging,
-      title={ComPEFT: Compression for Communicating Parameter Efficient Updates via Sparsification and Quantization},
+@misc{yadav2023compeft,
+      title={ComPEFT: Compression for Communicating Parameter Efficient Updates via Sparsification and Quantization}, 
       author={Prateek Yadav and Leshem Choshen and Colin Raffel and Mohit Bansal},
-
+      year={2023},
+      eprint={2311.13171},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
