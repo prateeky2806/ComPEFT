@@ -1,6 +1,6 @@
 # [ComPEFT: Compression for Communicating Parameter Efficient Updates via Sparsification and Quantization](https://arxiv.org/abs/2311.13171)
 
-* Authors: [Prateek Yadav](https://prateek-yadav.github.io/), [Leshem Choshen](https://ktilana.wixsite.com/leshem-choshen), [Colin Raffel](https://colinraffel.com/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
+* Authors: [Prateek Yadav](https://prateeky2806.github.io/), [Leshem Choshen](https://ktilana.wixsite.com/leshem-choshen), [Colin Raffel](https://colinraffel.com/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 * Paper: [arXiv](https://arxiv.org/abs/2311.13171)
 
 <img src="./assets/compeft.png" alt="teaser image" width="800"/>
